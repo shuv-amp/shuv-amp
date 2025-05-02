@@ -10,33 +10,33 @@
   <a href="mailto:shuvampandey4024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="360px" align="right">
-
 ## 👨‍💻 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" style="margin-left: 20px; margin-bottom: 20px;">
 
 ```javascript
 const developer = {
-  name: { 
-    raw: "Shuvam Pandey",
-    meaning: "A person with a dream to build."
-  },
-  pronouns: {
-    raw: ["he", "him"],
-    meaning: "Himself, making things happen."
-  },
-  education: {
-    raw: "Pursuing Computer Engineering",
-    meaning: "Learning to build better."
-  },
-  vision: {
-    mission: "Create technology that amplifies human potential"
-  },
-  philosophy: "To be human is to be aware, to care for others, and to find meaning in what we do.",
-  hopesToImpact: "Wants to build things that will help people in their daily lives.",
-  believesInGoodTech: "Thinks technology should be used to make the world a kinder and smarter place.",
-  worksWithOthers: "Likes to work with friends to build bigger and better things.",
-  favoriteQuote: "The best way to predict the future is to invent it."
-};
+   name: { 
+     raw: "Shuvam Pandey",
+     meaning: "A person with a dream to build."
+   },
+   pronouns: {
+     raw: ["he", "him"],
+     meaning: "Himself, making things happen."
+   },
+   education: {
+     raw: "Pursuing Computer Engineering",
+     meaning: "Learning to build better."
+   },
+   vision: {
+     mission: "Create technology that amplifies human potential"
+   },
+   philosophy: "To be human is to be aware, to care for others, and to find meaning in what we do.",
+   hopesToImpact: "Wants to build things that will help people in their daily lives.",
+   believesInGoodTech: "Thinks technology should be used to make the world a kinder and smarter place.",
+   worksWithOthers: "Likes to work with friends to build bigger and better things.",
+   favoriteQuote: "The best way to predict the future is to invent it."
+ };
 ```
 
 ## 🛠️ Tech Stack
@@ -86,6 +86,7 @@ const developer = {
   <a href="#"><img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain"/></a>
 </p>
 
+
 ## 💼 Open for Collaboration
 
 <div align="center">
@@ -98,4 +99,3 @@ const developer = {
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love">
 </div>
-
