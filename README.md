@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  [![Masterpiece Typing](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=800&color=00FFFF&background=0D1117&center=true&vCenter=true&multiline=true&width=900&height=150&lines=🚀+COMPUTER+ENGINEERING+STUDENT;🌟+FULL-STACK+DEVELOPER;🤖+AI+PIONEER+%26+BLOCKCHAIN+ENTHUSIAST;)](https://git.io/typing-svg)
+  [![Masterpiece Typing](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=800&color=00FFFF&background=0D1117&center=true&vCenter=true&multiline=true&width=900&height=150&lines=🚀+COMPUTER+ENGINEERING+STUDENT;🌟+FULL-STACK+DEVELOPER;🤖+AI+AND+BLOCKCHAIN+ENTHUSIAST;)](https://git.io/typing-svg)
   
 </div>
 
