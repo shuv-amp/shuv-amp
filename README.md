@@ -67,10 +67,9 @@
 </div>
 
 ---
+# 🛠️ Tech Arsenal
 
-## 🛠️ Tech Arsenal
-
-### 🎨 **FRONTEND**
+## 🎨 **FRONTEND**
 <div align="center">
   <table>
     <tr>
@@ -94,10 +93,11 @@
         <img src="https://raw.githubusercontent.com/github/explore/8144ae7e9ec2274bdb8f76bdbdb6e6509538c7a8/topics/css/css.png" width="60" /><br/>
         <sub><b>CSS3</b></sub>
       </td>
+    </tr>
   </table>
 </div>
 
-### ⚡ **BACKEND**
+## ⚡ **BACKEND**
 <div align="center">
   <table>
     <tr>
@@ -113,6 +113,14 @@
         <img src="https://raw.githubusercontent.com/mongodb/mongo/master/docs/leaf.svg" width="60" /><br/>
         <sub><b>MongoDB</b></sub>
       </td>
+    </tr>
+  </table>
+</div>
+
+## 🐳 **DEVOPS & TOOLS**
+<div align="center">
+  <table>
+    <tr>
       <td align="center" width="100">
         <img src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" width="60" /><br/>
         <sub><b>Docker</b></sub>
@@ -125,7 +133,7 @@
   </table>
 </div>
 
-### 🚀 **PROGRAMMING LANGUAGES**
+## 🚀 **PROGRAMMING LANGUAGES**
 <div align="center">
   <table>
     <tr>
@@ -150,6 +158,8 @@
 </div>
 
 ---
+
+
 ## 📜 Current Quests
 ## <img src="https://user-images.githubusercontent.com/74038190/212284113-f47e43a4-5d0a-4c28-abe4-6d96c20882a0.gif" width="50" /> &nbsp; 
 
@@ -174,20 +184,34 @@
 
 ---
 
-## 💼 Open for Collaboration
-
+## 🤝 Open for Collaboration
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Collaboration icon">
-  <p><em>I'm passionate about collaborating on innovative projects and exchanging knowledge. If you're working on something exciting, let's connect!</em></p>
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80" alt="Collaboration icon"><br/>
+        <sub><b>Let's Build Together</b></sub>
+      </td>
+      <td align="center" width="300">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" alt="Innovation icon"><br/>
+        <sub><b>Innovative Projects</b></sub>
+      </td>
+      <td align="center" width="300">
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80" alt="Knowledge icon"><br/>
+        <sub><b>Knowledge Exchange</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
+<div align="center">
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=fadeIn&fontColor=fff" width="100%"/>
     
   <br/><br/>
-    
+
+
   ---
   
  
