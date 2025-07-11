@@ -61,9 +61,6 @@
 ╭──┤ COLLABORATION ├────────────────────────────────▰▰▰
 │ 
 ├─◈ Open for innovative projects
-├─◈ Knowledge exchange enthusiast
-├─◈ Building tomorrow's technology today
-├─◈ "Let's create something amazing together"
 │ 
 ╰─────────────────────────────────────────────────▰▰▰
 
