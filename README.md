@@ -66,7 +66,7 @@ const shuvam = {
 
 ### 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,vscode,neovim" />
 </p>
 
 ## 📊 GitHub Analytics
