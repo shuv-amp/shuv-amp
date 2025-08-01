@@ -131,14 +131,6 @@ const shuvam = {
 
 </div>
 
-## 🏅 Holopin Badges
-
-<div align="center">
-  
-[![@shuvamp's Holopin board](https://holopin.me/shuvamp)](https://holopin.io/@shuvamp)
-</div>
-
-
 ## 📫 Let's Connect!
 
 <div align="center">
