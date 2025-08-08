@@ -134,9 +134,22 @@ const shuvam = {
 ## 📫 Let's Connect!
 
 <div align="center">
-
-I'm always excited to collaborate on interesting projects and discuss new technologies. Feel free to reach out if you want to build something amazing together!
-
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80" alt="Collaboration icon"><br/>
+        <sub><b>Let's Build Together</b></sub>
+      </td>
+      <td align="center" width="300">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" alt="Innovation icon"><br/>
+        <sub><b>Innovative Projects</b></sub>
+      </td>
+      <td align="center" width="300">
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80" alt="Knowledge icon"><br/>
+        <sub><b>Knowledge Exchange</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
