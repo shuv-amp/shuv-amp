@@ -48,13 +48,13 @@ const shuvam = {
 
 <br>
 
+---
 
 ## 💻 Technology Arsenal
-
 <div align="center">
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,nodejs,react,nextjs,express" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,nodejs,react,vue,nextjs,express" />
 
 ### Styling & Design
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,bootstrap,materialui,figma" />
