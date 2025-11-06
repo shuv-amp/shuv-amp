@@ -4,7 +4,7 @@
 
   
 <!-- Dynamic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Computer%20Engineer%20%7C%20Full-Stack%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20future,%20one%20line%20of%20code%20at%20a%20time&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Computer%20Engineer%20%7C%20Full-Stack%20Developer&fontSize=40&fontColor=ffffff"/>
 
 
 <!-- Social Links -->
@@ -22,89 +22,80 @@
 
 </div>
 
-## 🎯 About Me
+## 🚀 Who Am I?
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
 ```javascript
 const shuvam = {
-    pronouns: "He" | "Him",
-    education: "Computer Engineering Student",
-    currentFocus: ["Full-Stack Development", "AI/ML", "Blockchain"],
-    askMeAbout: ["Web Dev", "Tech", "App Dev", "Photography"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-        backEnd: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
-        mobile: ["React Native", "Flutter"],
-        devOps: ["Docker", "AWS", "Vercel"],
-        languages: ["JavaScript", "TypeScript", "Python", "Java", "C++"]
+    role: "Full-Stack Developer",    
+    passions: [
+        "Building scalable applications",
+        "Solving complex problems",
+        "Open source contribution",
+        "Continuous learning"
+    ],
+
+    currentFocus: {
+        learning: ["Web3", "Smart Contracts", "System Design"],
+        exploring: ["Blockchain", "Cloud Architecture"]
     },
-    currentlyLearning: "Web3 & Smart Contracts",
+
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
 
 <br>
 
-## 🚀 Tech Stack & Tools
 
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" />
-</p>
-
-### 🎨 Frontend Development  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass" />
-</p>
-
-### ⚡ Backend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase" />
-</p>
-
-### 🛠️ Tools & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,vscode,neovim" />
-</p>
-
-## 📊 GitHub Analytics
-
-
+## 💻 Technology Arsenal
 
 <div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuv-amp&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak Stats"/>
+
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,nodejs,react,nextjs,express" />
+
+### Styling & Design
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,bootstrap,materialui,figma" />
+
+### Databases & Backend
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,mysql,redis,graphql" />
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,linux,vscode,neovim,postman" />
+
+### Currently Exploring
+<img src="https://skillicons.dev/icons?i=solidity,tensorflow,kubernetes,go" />
 
 </div>
 
 
-## 🏆 GitHub Achievements
+---
+
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=shuv-amp&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+### 🔥 Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuv-amp&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea&sideLabels=667eea&currStreakNum=ffffff&sideNums=ffffff" width="700"/>
+
+### 📊 Detailed Metrics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuv-amp&theme=tokyonight" width="900"/>
+
+### 🏆 Achievement Showcase
+
+<img src="https://github-profile-trophy.vercel.app/?username=shuv-amp&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" width="900"/>
+
+### 📉 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shuv-amp&custom_title=Shuvam's%20Contribution%20Graph&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area_color=667eea&title_color=667eea&area=true&hide_border=true" width="900"/>
 
 </div>
 
-## 🌟 What I'm Up To
-
-- 🔭 Currently working on **Full-Stack Web Applications**
-- 🌱 Learning **Blockchain Development** and **Web3 Technologies**  
-- 👯 Looking to collaborate on **Open Source Projects**
-- 🤔 Exploring **AI/ML** and **Cloud Computing**
-- 💬 Ask me about **React, Node.js, MongoDB** or any **Tech** stuff
-- 📫 Reach me at: **shuvampandey4024@gmail.com**
-- ⚡ Fun fact: **I think coding is the closest thing we have to magic! ✨**
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shuv-amp&custom_title=Shuvam's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=667eea&line=667eea&point=667eea&area_color=667eea&title_color=667eea&area=true" alt="GitHub Activity Graph"/>
-
-</div>
+---
 
 ## 🎵 Currently Listening To
 
@@ -159,5 +150,7 @@ const shuvam = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 
 **"The best way to predict the future is to invent it." - Alan Kay**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
