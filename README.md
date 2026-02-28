@@ -1,126 +1,143 @@
+
 <div align="center">
 
-# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> I'm @shuv-amp
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=180&section=header&text=Shuvam%20Pandey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Computer%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=62&descSize=17"/>
 
-  
-<!-- Dynamic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Computer%20Engineer%20%7C%20Full-Stack%20Developer&fontSize=40&fontColor=ffffff"/>
+### Building scalable software, thoughtful developer experiences, and systems that solve real problems.
 
-
-<!-- Social Links -->
 <p align="center">
+  <a href="https://www.shuvamp.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="http://linkedin.com/in/shuv-amp/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/shuv-amp">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:shuvampandey4024@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 </div>
 
-## 🚀 Who Am I?
+---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## About Me
 
+I’m a **Computer Engineer** and **Full-Stack Developer** who enjoys turning ambitious ideas into reliable, maintainable products.
 
-```javascript
-const shuvam = {
-    role: "Full-Stack Developer",    
-    passions: [
-        "Building scalable applications",
-        "Solving complex problems",
-        "Open source contribution",
-        "Continuous learning"
-    ],
+What drives me:
+- Designing **scalable applications** with clean architecture
+- Solving complex engineering problems with practical thinking
+- Building products that balance **performance, usability, and developer experience**
+- Learning continuously through **open source, experimentation, and real projects**
 
-    currentFocus: {
-        learning: ["Web3", "Smart Contracts", "System Design"],
-        exploring: ["Blockchain", "Cloud Architecture"]
-    },
-
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
-
-<br>
+I’m especially interested in:
+- **Full-stack product engineering**
+- **System design and backend architecture**
+- **Cloud-native development**
+- **Web3 and smart contracts**
 
 ---
 
-## 💻 Technology Arsenal
-<div align="center">
+## Selected Work
 
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,nodejs,react,vue,nextjs,express" />
-
-### Styling & Design
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,bootstrap,materialui,figma" />
-
-### Databases & Backend
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,mysql,redis,graphql" />
-
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,linux,vscode,neovim,postman" />
-
-### Currently Exploring
-<img src="https://skillicons.dev/icons?i=solidity,tensorflow,kubernetes,go" />
-
-</div>
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/shuv-amp/TestLoom">TestLoom</a></h3>
+      <p>
+        An AI-powered exam preparation platform focused on turning study materials into more adaptive and personalized learning workflows.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/shuv-amp/ku-id-verifier">ku-id-verifier</a></h3>
+      <p>
+        A machine-learning based ID verification system using computer vision and OCR to validate student identity cards and detect fraud.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/shuv-amp/ZK-Guardian">ZK-Guardian</a></h3>
+      <p>
+        A privacy-first healthcare gateway exploring zero-knowledge proof based access verification for sensitive medical workflows.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/shuv-amp/AXIOM-4">AXIOM-4</a></h3>
+      <p>
+        A 4-bit RISC processor project featuring custom ISA design, verification flow, and low-level systems thinking.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Verilog-111827?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## Tech Stack
 
 <div align="center">
 
-### 🔥 Contribution Streak
+### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,go" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuv-amp&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea&sideLabels=667eea&currStreakNum=ffffff&sideNums=ffffff" width="700"/>
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,sass,bootstrap,materialui" />
 
-### 📊 Detailed Metrics
+### Backend & Data
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,postgresql,mysql,redis,firebase" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuv-amp&theme=tokyonight" width="900"/>
+### DevOps & Tooling
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,linux,git,github,postman,vscode,neovim" />
 
-### 🏆 Achievement Showcase
-
-<img src="https://github-profile-trophy.vercel.app/?username=shuv-amp&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" width="900"/>
-
-### 📉 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shuv-amp&custom_title=Shuvam's%20Contribution%20Graph&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area_color=667eea&title_color=667eea&area=true&hide_border=true" width="900"/>
+### Exploring
+<img src="https://skillicons.dev/icons?i=solidity,kubernetes,tensorflow" />
 
 </div>
 
 ---
 
-## 🎵 Currently Listening To
+## GitHub Insights
 
 <div align="center">
-  
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31k6rlp4bti6n4mz4vx6xsfpau2u)
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shuv-amp&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shuv-amp&theme=tokyonight&hide_border=true" />
 </div>
-
-## 💡 Random Dev Quote
 
 <div align="center">
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuv-amp&theme=tokyonight" />
 </div>
-
-## 🐍 Contribution Snake
 
 <div align="center">
-
-
-  <img src="https://raw.githubusercontent.com/shuv-amp/shuv-amp/output/github-contribution-grid-snake-dark.svg" alt="My Contribution Snake Animation" />
-
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shuv-amp&bg_color=0f172a&color=93c5fd&line=60a5fa&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
+
+---
+
+## What I’m Focused On
+
+* Building **production-grade full-stack applications**
+* Improving my depth in **system design**
+* Exploring **smart contracts, privacy-preserving systems, and Web3**
+* Writing cleaner, more scalable backend services
+* Contributing to projects that demand strong engineering fundamentals
+
+---
 
 ## 📫 Let's Connect!
 
@@ -145,12 +162,4 @@ const shuvam = {
 
 ---
 
-<div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
-
-**"The best way to predict the future is to invent it." - Alan Kay**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=120&section=footer"/>
