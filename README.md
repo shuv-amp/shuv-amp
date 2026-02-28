@@ -26,7 +26,7 @@
 
 ## About Me
 
-I’m a **Computer Engineer** and **Full-Stack Developer** who enjoys turning ambitious ideas into reliable, maintainable products.
+I’m a **Computer Engineering Student** and **Full-Stack Developer** who enjoys turning ambitious ideas into reliable, maintainable products.
 
 What drives me:
 - Designing **scalable applications** with clean architecture
