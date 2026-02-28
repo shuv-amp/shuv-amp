@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=180&section=header&text=Shuvam%20Pandey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Computer%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=62&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=180&section=header&text=Shuvam%20Pandey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Computer%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=62&descSize=17"/>
 
 ### Building scalable software, thoughtful developer experiences, and systems that solve real problems.
 
