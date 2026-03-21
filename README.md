@@ -7,4 +7,4 @@
 </p>
 
 - site: [shuvamp.com.np](https://www.shuvamp.com.np)
-- mail: [shuvampandey1@gmail.com](mailto:shuvampandey1@gmail.com)
+- mail: [i@shuvamp.com.np](mailto:i@shuvamp.com.np)
